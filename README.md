@@ -10,7 +10,7 @@ Componentes:
 
 Frederico https://github.com/FredericoSilveira
 
-Gilles
+Gilles https://github.com/gillesvtsilvano
 
 Jusciaane https://github.com/jusciaane
 
